@@ -10,6 +10,7 @@
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
    <br>
    <br>
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
@@ -28,19 +29,16 @@
 <br><br>
 
 <div align=center>
-   <h4>🎀 Contact 🎀</h4>
    <h4>🎨 Contact 🎨</h4>
 </div>
 <div align=center>
    <a href="mailto:gowoo123@naver.com">
-   <a href="mailto:2012duddn@gmail.com">
-      <img src="https://img.shields.io/badge/GMail-FF3633?style=flat&logo=Gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Messenger-00B2FF?style=flat&logo=Gmail&logoColor=white" />
    </a>
    <br>
 </div>
-<br><br><br>
-
 <br><br>
+
 <div align=center>
    <h4>🏆 Baekjoon solved rank 🏆</h4>
 
