@@ -1,6 +1,5 @@
 <div align=center>
    <h3>📚 Tech Stack 📚</h3>
-
    <br>
    <h4>✨ Studies ✨</h4>
 </div>
@@ -9,6 +8,7 @@
    <img src="https://img.shields.io/badge/AWS-6DB33F?style=flat&logo=aws&logoColor=white" />
    <br><br>
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+   <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=PostgreSQL&logoColor=white" />
 </div>
 <br><br>
 
