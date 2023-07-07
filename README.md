@@ -5,7 +5,6 @@
 </div>
 <div align="center">
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-   <img src="https://img.shields.io/badge/AWS-6DB33F?style=flat&logo=aws&logoColor=white" />
    <br><br>
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
    <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=PostgreSQL&logoColor=white" />
