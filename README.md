@@ -11,7 +11,7 @@
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
    <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=PostgreSQL&logoColor=white" />
 </div>
-<br><br>
+<br>
 
 <div align=center>
    <h4>🛠 Tools 🛠</h4>
