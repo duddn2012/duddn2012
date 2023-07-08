@@ -2,6 +2,7 @@
    <h3>📚 Tech Stack 📚</h3>
    <br>
    <h4>✨ Studies ✨</h4>
+   <h4>🌱 I’m currently learning Spring, Kotlin</h4>
 </div>
 <div align="center">
    <br>
@@ -9,8 +10,6 @@
    <br>
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
    <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=PostgreSQL&logoColor=white" />
-   
-- 🌱 I’m currently learning Spring, Kotlin
 </div>
 <br>
 
