@@ -21,7 +21,7 @@
    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-<br><br>
+<br>
 
 <div align=center>
    <h4>🎨 Contact 🎨</h4>
@@ -32,7 +32,7 @@
    </a>
    <br>
 </div>
-<br><br>
+<br>
 
 <div align=center>
    <h4>🏆 Baekjoon solved rank 🏆</h4>
