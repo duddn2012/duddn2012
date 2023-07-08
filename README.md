@@ -5,9 +5,9 @@
 </div>
 <div align="center">
 - 🌱 I’m currently learning Spring, Kotlin
-   <br><br>
+   <br>
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-   <br><br>
+   <br>
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
    <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=PostgreSQL&logoColor=white" />
 </div>
