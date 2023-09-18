@@ -39,8 +39,4 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=duddn2012)](https://solved.ac/duddn2012)
 </div>
-<br>
-<div align=center>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duddn2012&layout=compact">
-</div>
 
