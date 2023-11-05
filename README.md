@@ -2,7 +2,7 @@
    <h3>📚 Tech Stack 📚</h3>
    <br>
    <h4>✨ Studies ✨</h4>
-   <h4>🌱 I’m currently learning Spring</h4>
+   <h4>🌱 I’m currently learning Java, Spring</h4>
 </div>
 <div align="center">
    <br>
