@@ -38,4 +38,7 @@
    <h4>🏆 Baekjoon solved rank 🏆</h4>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=duddn2012)](https://solved.ac/duddn2012)
+
+[![young woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=duddn2012)](https://github.com/duddn2012/github-readme-stats)
+
 </div>
