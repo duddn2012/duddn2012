@@ -6,9 +6,6 @@
    <br>
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
    <img src="https://img.shields.io/badge/React-0067A3?style=flat&logo=react&logoColor=white" />
-   <br>
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-   <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=PostgreSQL&logoColor=white" />
 </div>
 <br>
 
