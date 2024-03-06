@@ -1,6 +1,6 @@
 <div align=center>
    <h4>✨ Studies ✨</h4>
-   <h4>🌱 I’m currently learning TypeScript, React</h4>
+   <h4>🌱 I’m currently learning Java, Spring</h4>
 </div>
 <div align="center">
    <br>
