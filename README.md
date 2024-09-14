@@ -1,6 +1,5 @@
 
 ## Youngwoo Ko
-🏫 The Catholic University Of Korea <br>
 😄 I’m currently learning Java, Spring
 
 
