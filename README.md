@@ -1,7 +1,18 @@
 
 ## Youngwoo Ko
 😄 I’m currently learning Java, Spring
+<p align="center">
+<a href="https://github.com/duddn2012/github-readme-stats">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=duddn2012&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+</a>
+</p>
 
+<!--
+<p align="center">
+<a href="https://github.com/duddn2012/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duddn2012&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+</a>
+</p>
 
 
 ###  Activity
