@@ -3,7 +3,7 @@
 😄 I’m currently learning Java, Spring
 
 ### Experience
-⭐️ 2024.11 ~ 현재 : **[rapeech] 라피치 Web Developer**
+⭐️ 2024.11 ~ 현재 : **[rapeech] 라피치 Back-End Developer**
 
 ### Activity
 ⭐️ 2024.07 ~ 2024.11 : [SSAFY] 삼성 청년 SW 아카데미 12기 <br>
