@@ -1,6 +1,5 @@
 
 ## Youngwoo Ko
-😄 I’m currently learning Java, Spring
 
 ### Experience
 ⭐️ 2024.11 ~ 현재 : **[rapeech] 라피치 기업부설연구소 제품개발팀**
